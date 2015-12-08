@@ -9,5 +9,8 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-karma"
+  "hubot-karma",
+  "hubot-youtube",
+  "hubot-business-cat",
+  "hubot-slack"
 ]
