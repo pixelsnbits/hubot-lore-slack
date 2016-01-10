@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-karma-classic",
-  "hubot-youtube"
+  "hubot-youtube",
+  "hubot-darksky"
 ]
